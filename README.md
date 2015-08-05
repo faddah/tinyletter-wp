@@ -10,7 +10,7 @@ v0.0.1a
 ### Current Info/Still Needed
 
 * Created & uploaded for repository these 4 main files —
-  * README.md - this descriptive file
+  * README.md - this descriptive file.
   * tinyletter-form.html - the <form> and <iframe> HTML part of the plug-in.
   * style.css — the css styling, especially for the .tinyletterhider to give response in the widget once the form is submitted to tinyletter.com.
   * tinyletter.js — the jQuery files.

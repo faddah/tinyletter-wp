@@ -11,9 +11,7 @@ v0.0.1a
 
 * Created & uploaded for repository these 4 main files —
   * README.md - this descriptive file.
-<<<<<<< HEAD
   * tinyletter-form.html - the <strong>form</strong> and <strong>iframe</strong> HTML part of the plug-in.
-=======
   * tinyletter-form.html - the <strong>form</strong> and <strong>iframe</strong> HTML part of the plug-in.
   * style.css — the css styling, especially for the .tinyletterhider to give response in the widget once the form is submitted to tinyletter.com.
   * tinyletter.js — the jQuery files.
@@ -36,8 +34,4 @@ v0.0.1a
 
 *Special Thanks!*
 
-* *thanx first and foremost to [Nathan Swarz of ClickNathan Web Design](http://clicknathan.com) for the original [blog post solving this issue](http://clicknathan.com/web-design/tinyletter-wordpress-plugin/) and for giving faddah permission to collaborate and take it further as a full WordPress Plug-in.
-<<<<<<< HEAD
-=======
-
->>>>>>> f73a963de24a95fe86f6705979f98a1328b547a9
+* *thanx first and foremost to [Nathan Swarz of ClickNathan Web Design](http://clicknathan.com) for the original [blog post solving this issue](http://clicknathan.com/web-design/tinyletter-wordpress-plugin/) and for giving faddah permission to collaborate and take it further as a full WordPress Plug-in.git

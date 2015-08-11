@@ -5,7 +5,7 @@ As [WordPress](http://wordpress.org) currently has Plug-ins based on [MailChimp]
 
 ### Version
 
-v0.0.1a
+v0.0.1b
 
 ### Current Info/Still Needed
 

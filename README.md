@@ -34,4 +34,4 @@ v0.0.1a
 
 *Special Thanks!*
 
-* *thanx first and foremost to [Nathan Swarz of ClickNathan Web Design](http://clicknathan.com) for the original [blog post solving this issue](http://clicknathan.com/web-design/tinyletter-wordpress-plugin/) and for giving faddah permission to collaborate and take it further as a full WordPress Plug-in.git
+* *thanx first and foremost to [Nathan Swarz of ClickNathan Web Design](http://clicknathan.com) for the original [blog post solving this issue](http://clicknathan.com/web-design/tinyletter-wordpress-plugin/) and for giving faddah permission to collaborate and take it further as a full WordPress Plug-in.
